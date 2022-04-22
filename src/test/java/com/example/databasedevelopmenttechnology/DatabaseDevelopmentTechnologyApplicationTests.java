@@ -68,7 +68,6 @@ class DatabaseDevelopmentTechnologyApplicationTests {
             recordMapper.insertBatchSomeColumn(records);
             records.clear();
         }
-        recordMapper.insertBatchSomeColumn(records);
     }
     
     private void generateTK() {
